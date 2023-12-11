@@ -9,12 +9,10 @@ package proyecto.github;
  * @author alexr
  */
 public class ProyectoGitHub {
+    
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Modificacio 1");
     }
     
 }
