@@ -12,7 +12,7 @@ public class ProyectoGitHub {
     
 
     public static void main(String[] args) {
-        System.out.println("Modificacio 1");
+        System.out.println("Modificacio 2");
     }
     
 }
