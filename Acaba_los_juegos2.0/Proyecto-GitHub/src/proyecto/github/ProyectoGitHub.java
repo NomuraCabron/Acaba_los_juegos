@@ -12,7 +12,8 @@ public class ProyectoGitHub {
     
 
     public static void main(String[] args) {
-        System.out.println("Modificacio 3");
+        int numero = 4;
+        System.out.println("Modificacio "+numero);
     }
     
 }
